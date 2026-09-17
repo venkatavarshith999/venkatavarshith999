@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Varshith Kundrapu
+# 👋 Hi, I'm Varshith 
 
 ### 🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor
 
